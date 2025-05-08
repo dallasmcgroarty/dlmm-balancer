@@ -1,0 +1,83 @@
+# Define different env configs
+configs = {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0xebcce8b534a35e93c7cf25f3fff2f8202f9f0655',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '20',
+    'USE_MAX_FUNDS_TOKENX': '1000',
+    'USE_MAX_FUNDS_TOKENY': '500',
+    'KEY_STORE': 'S-scUSD'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0x3f8a68140b09bd060f27c1a76cce330291a103fe',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '20',
+    'USE_MAX_FUNDS_TOKENX': '1000',
+    'USE_MAX_FUNDS_TOKENY': '500',
+    'KEY_STORE': 'STS-USDC.E'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0x38a7689cfe589e23620d44b10ae71bf3b38667a9',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '25',
+    'USE_MAX_FUNDS_TOKENX': '',
+    'USE_MAX_FUNDS_TOKENY': '1000',
+    'KEY_STORE': 'SCETH-WS'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0x56b404073c990e828691af936bcfff710f6c97a1',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '20',
+    'USE_MAX_FUNDS_TOKENX': '1000',
+    'USE_MAX_FUNDS_TOKENY': '500',
+    'KEY_STORE': 'S-USDC.e'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0xd97233ef59e21bde4a62c91c99aa1b6aa18a5ea5',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '20',
+    'USE_MAX_FUNDS_TOKENX': '1000',
+    'USE_MAX_FUNDS_TOKENY': '500',
+    'KEY_STORE': 'STS-SCUSD'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0xac6450daf30c6db4d000a443bee2264bd7a1cc92',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '100',
+    'USE_MAX_FUNDS_TOKENX': '',
+    'USE_MAX_FUNDS_TOKENY': '500',
+    'KEY_STORE': 'ANON-S'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0x449970c59d1ead3aa5b587756f6b58012a311a6d',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '100',
+    'USE_MAX_FUNDS_TOKENX': '',
+    'USE_MAX_FUNDS_TOKENY': '100',
+    'KEY_STORE': 'ANON-USDC.e'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0x27d85e244dd8ae1fe5010fc92c91602145ba8e82',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '100',
+    'USE_MAX_FUNDS_TOKENX': '',
+    'USE_MAX_FUNDS_TOKENY': '100',
+    'KEY_STORE': 'ECO-USDC.e'
+}, {
+    'PRIVATE_KEY': 'PRIVATE_KEY',
+    'RPC_URL': 'https://rpc.ankr.com/sonic_mainnet',
+    'LBP_CONTRACT_ADDRESS': '0x695dd6522c5247ca7b26a3585e609234bca24192',
+    'LBROUTER_CONTRACT_ADDRESS': '0x67803fe6d76409640efDC9b7ABcD2c6c2E7cBa48',
+    'BIN_STEPS': '100',
+    'USE_MAX_FUNDS_TOKENX': '',
+    'USE_MAX_FUNDS_TOKENY': '100',
+    'KEY_STORE': 'THC-USDC.e'
+}
